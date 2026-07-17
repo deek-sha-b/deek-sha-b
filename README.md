@@ -2,7 +2,7 @@
 <h3 align="center">MCA Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Frontend+Developer;ML+Enthusiast&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Developer;&center=true&width=500&height=45">
 </p>
 
 ---
@@ -64,6 +64,10 @@ Currently, I am focusing on machine learning and web development.
 
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 </a>
 </p>
 
