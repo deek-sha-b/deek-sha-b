@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deeksha</h1>
 <h3 align="center">MCA Student</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Developer;&center=true&width=500&height=45">
-</p>
+<h4 align="center">💻Frontend Developer</h4>
 
 ---
 
