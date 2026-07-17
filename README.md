@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deeksha</h1>
 <h3 align="center">MCA Student</h3>
 
-<h4 align="center">💻Frontend Developer</h4>
+<!-- <h4 align="center">💻Frontend Developer</h4> -->
 
 ---
 
@@ -64,7 +64,7 @@ Currently, I am focusing on machine learning and web development.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.mongodb.com/" target="_blank">
+<a href="https://nodejs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 </a>
 </p>
