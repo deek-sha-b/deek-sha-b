@@ -73,39 +73,11 @@
 
 > 🔧 My best work lives in my repositories. Browse them here: **[github.com/deek-sha-b?tab=repositories](https://github.com/deek-sha-b?tab=repositories)**
 
-<br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=deek-sha-b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deek-sha-b&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 
-</div>
 
-<br/>
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=deek-sha-b&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-## 🏆 Achievements
-
-<!-- Trophies are generated automatically from your GitHub activity.
-     Add certifications or hackathon wins below as bullet points when you have them. -->
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deek-sha-b&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
-
-</div>
 
 <br/>
 
@@ -141,7 +113,6 @@
 
 <br/><br/>
 
-💬 *Feel free to reach out about collaborations, opportunities, or just to say hi!*
 
 </div>
 
